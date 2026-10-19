@@ -1,0 +1,2724 @@
+{
+  "providerName": "Classic Cartoons by: ParkerDataLink.com",
+  "lastUpdated": "2026-07-23",
+  "language": "en",
+  "categories": [
+    {
+      "title": "Fleischer Superman & Wartime Toons",
+      "items": [
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-mad-scientist-1941",
+          "title": "Superman: The Mad Scientist",
+          "year": 1941,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1941.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E01%20-%20The%20Mad%20Scientist%20%281941%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-mechanical-monsters-1941",
+          "title": "Superman: The Mechanical Monsters",
+          "year": 1941,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1941.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E02%20-%20The%20Mechanical%20Monsters%20%281941%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-billion-dollar-limited-1942",
+          "title": "Superman: Billion Dollar Limited",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E03%20-%20Billion%20Dollar%20Limited%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-arctic-giant-1942",
+          "title": "Superman: The Arctic Giant",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E04%20-%20The%20Arctic%20Giant%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-bulleteers-1942",
+          "title": "Superman: The Bulleteers",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E05%20-%20The%20Bulleteers%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-magnetic-telescope-1942",
+          "title": "Superman: The Magnetic Telescope",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E06%20-%20The%20Magnetic%20Telescope%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-electric-earthquake-1942",
+          "title": "Superman: Electric Earthquake",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E07%20-%20Electric%20Earthquake%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-volcano-1942",
+          "title": "Superman: Volcano",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E08%20-%20Volcano%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-terror-on-the-midway-1942",
+          "title": "Superman: Terror on the Midway",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E09%20-%20Terror%20on%20the%20Midway%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-japoteurs-1942",
+          "title": "Superman: Japoteurs",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E10%20-%20Japoteurs%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-showdown-1942",
+          "title": "Superman: Showdown",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E11%20-%20Showdown%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-eleventh-hour-1942",
+          "title": "Superman: Eleventh Hour",
+          "year": 1942,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1942.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E12%20-%20Eleventh%20Hour%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-destruction-inc-1943",
+          "title": "Superman: Destruction Inc.",
+          "year": 1943,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1943.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E13%20-%20Destruction%20Inc.%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-mummy-strikes-1943",
+          "title": "Superman: The Mummy Strikes",
+          "year": 1943,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1943.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E14%20-%20The%20Mummy%20Strikes%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-jungle-drums-1943",
+          "title": "Superman: Jungle Drums",
+          "year": 1943,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1943.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E15%20-%20Jungle%20Drums%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-the-underground-world-1943",
+          "title": "Superman: The Underground World",
+          "year": 1943,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1943.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E16%20-%20The%20Underground%20World%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-superman-secret-agent-1943",
+          "title": "Superman: Secret Agent",
+          "year": 1943,
+          "description": "Fleischer/Famous Studios \u2014 Superman short, 1943.",
+          "streamUrl": "https://archive.org/download/superman-the-complete-collection-fleischerfamous-studios/Superman%20E17%20-%20Secret%20Agent%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-gas-1944",
+          "title": "Private Snafu: Gas",
+          "year": 1944,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/gas-1944/Gas%20%281944%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-booby-traps-1944",
+          "title": "Private Snafu: Booby Traps",
+          "year": 1944,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/booby-traps-1944/Booby%20Traps%20%281944%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-the-infantry-blues-1943",
+          "title": "Private Snafu: The Infantry Blues",
+          "year": 1943,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/the-infantry-blues-1943/The%20Infantry%20Blues%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-coming-snafu-1943",
+          "title": "Private Snafu: Coming!! Snafu",
+          "year": 1943,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/coming-snafu-1943/Coming%21%21%20Snafu%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-spies-1943",
+          "title": "Private Snafu: Spies",
+          "year": 1943,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/spies-1943/Spies%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-censored-1944",
+          "title": "Private Snafu: Censored",
+          "year": 1944,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/censored-1944/Censored%20%281944%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-hot-spot-1945",
+          "title": "Private Snafu: Hot Spot",
+          "year": 1945,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/PrivateSnafu-HotSpot1945/PrivateSnafu-HotSpot1945.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        },
+        {
+          "id": "channel-3-fleischer-superman-wartime-toons-private-snafu-fighting-tools-1943",
+          "title": "Private Snafu: Fighting Tools",
+          "year": 1943,
+          "description": "Automatically PD as a US government work",
+          "streamUrl": "https://archive.org/download/private-snafu-fighting-tools-1943/Private%20Snafu%20-%20Fighting%20Tools%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Very High confidence)"
+        }
+      ]
+    },
+    {
+      "title": "Van Beuren Classics",
+      "items": [
+        {
+          "id": "channel-1-van-beuren-classics-magic-boots-1922",
+          "title": "Magic Boots",
+          "year": 1922,
+          "description": "Van Beuren Studios short, 1922.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/22.02.01%20Magic%20Boots.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-two-of-a-trade-1922",
+          "title": "Two of a Trade",
+          "year": 1922,
+          "description": "Van Beuren Studios short, 1922.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/22.09.27%20Two%20Of%20a%20Trade.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-a-jealous-fisher-1923",
+          "title": "A Jealous Fisher",
+          "year": 1923,
+          "description": "Van Beuren Studios short, 1923.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/23.02.17%20A%20Jealous%20Fisher.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-she-s-in-again-1924",
+          "title": "She's in Again",
+          "year": 1924,
+          "description": "Van Beuren Studios short, 1924.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/24.12.03%20She%27s%20In%20Again.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-skating-hound-1929",
+          "title": "Skating Hound",
+          "year": 1929,
+          "description": "Van Beuren Studios short, 1929.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/29.05.27%20Skating%20Hound.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-a-close-call-1929",
+          "title": "A Close Call",
+          "year": 1929,
+          "description": "Van Beuren Studios short, 1929.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/29.12.22%20A%20Close%20Call.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-hot-tamale-1930",
+          "title": "Hot Tamale",
+          "year": 1930,
+          "description": "Van Beuren Studios short, 1930.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/30.08.03%20Hot%20Tamale.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-circus-capers-1930",
+          "title": "Circus Capers",
+          "year": 1930,
+          "description": "Van Beuren Studios short, 1930.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/30.09.28%20Circus%20Capers.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-office-boy-van-beuren-1930",
+          "title": "The Office Boy (Van Beuren)",
+          "year": 1930,
+          "description": "Van Beuren Studios short, 1930.",
+          "streamUrl": "https://archive.org/download/All-Van-Beuren-Cartoons-Found-So-Far-1921-to-1936/30.11.23%20The%20Office%20Boy.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-a-little-bird-told-me-n-a",
+          "title": "A Little Bird Told Me",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/A%20Little%20Bird%20Told%20Me.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-a-waif-s-welcome-n-a",
+          "title": "A Waif's Welcome",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/A%20Waifs%20Welcome.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cupid-gets-his-man-n-a",
+          "title": "Cupid Gets His Man",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Cupid%20Gets%20His%20Man.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-goofy-goat-antics-n-a",
+          "title": "Goofy Goat Antics",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Goofy%20Goat%20Antics.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-hoffnung-music-academy-n-a",
+          "title": "Hoffnung Music Academy",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/HoffNung%20Music%20Academy.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-hoffnung-vacuum-cleaner-n-a",
+          "title": "Hoffnung Vacuum Cleaner",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Hoffnung%20Vacuum%20Cleaner.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-hunting-season-n-a",
+          "title": "Hunting Season",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Hunting%20Season.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-it-s-a-greek-life-n-a",
+          "title": "It's a Greek Life",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Its%20a%20Greek%20Life.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-joe-glow-the-firefly-n-a",
+          "title": "Joe Glow the Firefly",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Joe%20Glow%20the%20Firefly.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-love-in-a-pond-n-a",
+          "title": "Love in a Pond",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Love%20In%20a%20Pond.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-merry-kittens-1935",
+          "title": "Merry Kittens",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/the-merry-kittens-1935-van-beuren-studios-rainbow-parade-short-cartoon/The%20Merry%20Kittens%20%281935%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-molly-moo-cow-and-the-indians-1935",
+          "title": "Molly Moo-Cow and the Indians",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/molly-moo-cow-and-the-indians-van-beuren-1935/Molly%20Moo-Cow%20and%20the%20Indians%20%28Van%20Beuren%201935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-molly-moo-cow-and-robinson-crusoe-1936",
+          "title": "Molly Moo-Cow and Robinson Crusoe",
+          "year": 1936,
+          "description": "Van Beuren Studios short, 1936.",
+          "streamUrl": "https://archive.org/download/molly-moo-cow-and-robinson-crusoe-van-beuren-1936/Molly%20Moo-Cow%20And%20Robinson%20Crusoe%20%28Van%20Beuren%201936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-molly-moo-cow-and-the-butterflies-n-a",
+          "title": "Molly Moo-Cow and the Butterflies",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Molly%20Moo-Cow%20and%20the%20Butterflies.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-mutt-and-jeff-westward-whoa-n-a",
+          "title": "Mutt and Jeff: Westward Whoa",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Mutt%20and%20Jeff%20Westward%20Whoa.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-noah-s-outing-1932",
+          "title": "Noah's Outing",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Noahs%20Outing.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-parrotville-old-folks-1935",
+          "title": "Parrotville Old Folks",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/parrotville-old-folks-1935-van-beuren-studios-rainbow-parade-short-cartoon/Parrotville%20Old%20Folks%20%281935%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-parrotville-post-office-n-a",
+          "title": "Parrotville Post-Office",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Parrotville%20Post-Office.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-picnic-panic-n-a",
+          "title": "Picnic Panic",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Picnic%20Panic.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-professor-yaya-s-memoirs-n-a",
+          "title": "Professor Yaya's Memoirs",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Professor%20Yaya-s%20Memoirs.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-scotty-finds-a-home-n-a",
+          "title": "Scotty Finds a Home",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Scotty%20Finds%20a%20Home.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-smart-salesman-n-a",
+          "title": "Smart Salesman",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Smart%20Salesman.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-spinning-mice-1935",
+          "title": "Spinning Mice",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/spinning-mice-1935-van-beuren-studios-rainbow-parade-short-cartoon/Spinning%20Mice%20%281935%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-sultan-pepper-n-a",
+          "title": "Sultan Pepper",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Sultan%20Pepper.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-sunshine-makers-1935",
+          "title": "Sunshine Makers",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/sunshine-makers-van-beuren-1935/Sunshine%20Makers%20%28Van%20Beuren%201935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-barnyard-melody-n-a",
+          "title": "The Barnyard Melody",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/The%20Barnyard%20Melody.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-black-duck-n-a",
+          "title": "The Black Duck",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/The%20Black%20Duck.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-haunted-ship-n-a",
+          "title": "The Haunted Ship",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/The%20Haunted%20Ship.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-jungle-fool-n-a",
+          "title": "The Jungle Fool",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/The%20Jungle%20Fool.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-toonerville-picnic-1936",
+          "title": "Toonerville Picnic",
+          "year": 1936,
+          "description": "Van Beuren Studios short, 1936.",
+          "streamUrl": "https://archive.org/download/toonerville-picnic-1936-van-beuren-studios-rainbow-parade-short-cartoon/Toonerville%20Picnic%20%281936%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-toyland-capers-n-a",
+          "title": "Toyland Capers",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Toyland%20Capers.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-wooden-money-n-a",
+          "title": "Wooden Money",
+          "year": "n/a",
+          "description": "Title as listed on archive.org item page",
+          "streamUrl": "https://archive.org/download/van-beuren-cartoons/Wooden%20Money.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-pastry-town-wedding-1934",
+          "title": "Pastry Town Wedding",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/pastry-town-wedding-1934-van-beuren-studios-rainbow-parade-short-cartoon/Pastry%20Town%20Wedding%20%281934%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-rag-dog-1935",
+          "title": "Rag Dog",
+          "year": 1935,
+          "description": "Van Beuren Studios short, 1935.",
+          "streamUrl": "https://archive.org/download/rag-dog-1935-van-beuren-studios-rainbow-parade-short-cartoon/Rag%20Dog%20%281935%29%20Van%20Beuren%20Studios%20Rainbow%20Parade%20Short%20Cartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-a-royal-good-time-1934",
+          "title": "The Little King: A Royal Good Time",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/08.%20The%20Little%20King%20-%20A%20Royal%20Good%20Time%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-art-for-art-s-sake-1934",
+          "title": "The Little King: Art for Art's Sake",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/09.%20The%20Little%20King%20-%20Art%20for%20Art%27s%20Sake%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-cactus-king-1934",
+          "title": "The Little King: Cactus King",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/10.%20The%20Little%20King%20-%20Cactus%20King%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-jest-of-honor-1934",
+          "title": "The Little King: Jest of Honor",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/05.%20The%20Little%20King%20-%20Jest%20of%20Honor%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-jolly-good-felons-1934",
+          "title": "The Little King: Jolly Good Felons",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/06.%20The%20Little%20King%20-%20Jolly%20Good%20Felons%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-marching-along-1933",
+          "title": "The Little King: Marching Along",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/02.%20The%20Little%20King%20-%20Marching%20Along%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-on-the-pan-1933",
+          "title": "The Little King: On the Pan",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/03.%20The%20Little%20King%20-%20On%20the%20Pan%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-the-fatal-note-1933",
+          "title": "The Little King: The Fatal Note",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/01.%20The%20Little%20King%20-%20The%20Fatal%20Note%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-the-little-king-christmas-night-1933",
+          "title": "The Little King: Christmas Night",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-the-little-king-the-complete-collection/04.%20The%20Little%20King%20-%20Christmas%20Night%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-opening-night-1933",
+          "title": "Cubby Bear: Opening Night",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E01%20-%20Opening%20Night%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-love-s-labor-win-1933",
+          "title": "Cubby Bear: Love's Labor Win",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E02%20-%20Love%27s%20Labor%20Win%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-the-last-mail-1933",
+          "title": "Cubby Bear: The Last Mail",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E03%20-%20The%20Last%20Mail%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-bubbles-and-troubles-1933",
+          "title": "Cubby Bear: Bubbles and Troubles",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E04%20-%20Bubbles%20and%20Troubles%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-barking-dogs-1933",
+          "title": "Cubby Bear: Barking Dogs",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E05%20-%20Barking%20Dogs%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-indian-whoopee-1933",
+          "title": "Cubby Bear: Indian Whoopee",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E06%20-%20Indian%20Whoopee%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-fresh-ham-1933",
+          "title": "Cubby Bear: Fresh Ham",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E07%20-%20Fresh%20Ham%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-the-nut-factory-1933",
+          "title": "Cubby Bear: The Nut Factory",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E08%20-%20The%20Nut%20Factory%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-cubby-s-world-flight-1933",
+          "title": "Cubby Bear: Cubby's World Flight",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E09%20-%20Cubby%27s%20World%20Flight%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-cubby-s-picnic-1933",
+          "title": "Cubby Bear: Cubby's Picnic",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E10%20-%20Cubby%27s%20Picnic%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-the-gay-gaucho-1933",
+          "title": "Cubby Bear: The Gay Gaucho",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E11%20-%20The%20Gay%20Gaucho%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-galloping-fanny-1933",
+          "title": "Cubby Bear: Galloping Fanny",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E12%20-%20Galloping%20Fanny%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-croon-crazy-1933",
+          "title": "Cubby Bear: Croon Crazy",
+          "year": 1933,
+          "description": "Van Beuren Studios short, 1933.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E13%20-%20Croon%20Crazy%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-sinister-stuff-1934",
+          "title": "Cubby Bear: Sinister Stuff",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E14%20-%20Sinister%20Stuff%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-goode-knight-1934",
+          "title": "Cubby Bear: Goode Knight",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E15%20-%20Goode%20Knight%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-how-s-crops-1934",
+          "title": "Cubby Bear: How's Crops",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E16%20-%20How%27s%20Crops%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-cubby-s-stratosphere-flight-1934",
+          "title": "Cubby Bear: Cubby's Stratosphere Flight",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E17%20-%20Cubby%27s%20Stratosphere%20Flight%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-mild-cargo-1934",
+          "title": "Cubby Bear: Mild Cargo",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E18%20-%20Mild%20Cargo%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-fiddlin-fun-1934",
+          "title": "Cubby Bear: Fiddlin' Fun",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E19%20-%20Fiddlin%27%20Fun%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-cubby-bear-mischievous-mice-1934",
+          "title": "Cubby Bear: Mischievous Mice",
+          "year": 1934,
+          "description": "Van Beuren Studios short, 1934.",
+          "streamUrl": "https://archive.org/download/van-beurens-cubby-bear-the-complete-collection/Cubby%20Bear%20E20%20-%20Mischievous%20Mice%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-piano-tooners-1932",
+          "title": "Tom and Jerry: Piano Tooners",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/tom-and-jerry-s1e18-piano-tooners-restored/km_20250713-1_720p_60f_20250713_191904.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-pencil-mania-1932",
+          "title": "Tom and Jerry: Pencil Mania",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/van-beuren-1932-tom-and-jerry-pencil-mania/Van%20Beuren%201932%20Tom%20and%20Jerry%20-Pencil_Mania.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-wot-a-night-1932",
+          "title": "Tom and Jerry: Wot a Night",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/TomAndJerryWotANight/WotANight.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-jolly-fish-1932",
+          "title": "Tom and Jerry: Jolly Fish",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/Jolly_Fish_1932/Tom_and_Jerry_Jolly_Fish_1932_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-a-spanish-twist-1932",
+          "title": "Tom and Jerry: A Spanish Twist",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/TomAndJerryInASpanishTwist/RareLostCartoonsAndKidsShows-VanBeuren-TomJerry-ASpanishTwistdvdRip1932.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-barnyard-bunk-1932",
+          "title": "Tom and Jerry: Barnyard Bunk",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/Barnyard_Bunk_1932/Tom_and_Jerry_Barnyard_Bunk_1932_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-the-tuba-tooter-1932",
+          "title": "Tom and Jerry: The Tuba Tooter",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/The_Tuba_Tooter_1932/Tom_and_Jerry_The_Tuba_Tooter_1932_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        },
+        {
+          "id": "channel-1-van-beuren-classics-tom-and-jerry-redskin-blues-1932",
+          "title": "Tom and Jerry: Redskin Blues",
+          "year": 1932,
+          "description": "Van Beuren Studios short, 1932.",
+          "streamUrl": "https://archive.org/download/Redskin_Blues_1932/Tom_and_Jerry_Redskin_Blues_1932_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 studio catalog lapsed)"
+        }
+      ]
+    },
+    {
+      "title": "Ub Iwerks Toon Vault",
+      "items": [
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-balloon-land-1935",
+          "title": "Balloon Land",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Classics%20-%20Balloon%20Land%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-bremen-town-musicians-1935",
+          "title": "The Bremen Town Musicians",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Classics%20-%20The%20Bremen%20Town%20Musicians%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-humpty-dumpty-1935",
+          "title": "Humpty Dumpty",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Humpty%20Dumpty%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-simple-simon-1935",
+          "title": "Simple Simon",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Simple%20Simon%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-mary-s-little-lamb-1935",
+          "title": "Mary's Little Lamb",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Mary%27s%20Little%20Lamb%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-old-mother-hubbard-1935",
+          "title": "Old Mother Hubbard",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Old%20Mother%20Hubbard%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-sindbad-the-sailor-1935",
+          "title": "Sindbad the Sailor",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Sindibad%20the%20Sailor%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-summertime-1935",
+          "title": "Summertime",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20Summertime%20-%201935.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-three-bears-1935",
+          "title": "The Three Bears",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoon%20-%20The%20Three%20Bears%20-%201935%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-little-boy-blue-1936",
+          "title": "Little Boy Blue",
+          "year": 1936,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1936.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Little%20Boy%20Blue%20-%201936%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-aladdin-and-the-wonderful-lamp-1934",
+          "title": "Aladdin and the Wonderful Lamp",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Aladdin%20and%20the%20Wonderful%20Lamp%20-%201934%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-ali-baba-1936",
+          "title": "Ali Baba",
+          "year": 1936,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1936.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Ali%20Baba%20-%201936%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-dick-whittington-s-cat-1936",
+          "title": "Dick Whittington's Cat",
+          "year": 1936,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1936.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Dick%20Whittington%27s%20Cat%20-%201936%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-don-quixote-1934",
+          "title": "Don Quixote",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Don%20Quixote%20-%201934.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-happy-days-n-a",
+          "title": "Happy Days",
+          "year": "n/a",
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, n/a.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Happy%20Days.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-jack-frost-1934",
+          "title": "Jack Frost",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Jack%20Frost%20-%201934.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-valiant-tailor-1934",
+          "title": "The Valiant Tailor",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20The%20Valiant%20Tailor%20-%201934%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-tom-thumb-1936",
+          "title": "Tom Thumb",
+          "year": 1936,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1936.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/ComiColor%20Cartoons%20-%20Tom%20Thumb%20-%201936%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-jack-and-the-beanstalk-1933",
+          "title": "Jack and the Beanstalk",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1933.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20Jack%20and%20the%20Beanstalk%20-%201933%20%28Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-little-black-sambo-1935",
+          "title": "Little Black Sambo",
+          "year": 1935,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1935.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20Little%20Black%20Sambo%20-%201935%20%28HD%20Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-puss-in-boots-1934",
+          "title": "Puss in Boots",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20Puss%20in%20Boots%20-%201934%20%28Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-brave-tin-soldier-1934",
+          "title": "The Brave Tin Soldier",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20The%20Brave%20Tin%20Soldier%20-%201934%20%28Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-headless-horseman-1934",
+          "title": "The Headless Horseman",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20The%20Headless%20Horseman%20-%201934%20%28HD%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-little-red-hen-1934",
+          "title": "The Little Red Hen",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20The%20Little%20Red%20Hen%20-%201934%20%28Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-queen-of-hearts-1934",
+          "title": "The Queen of Hearts",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 ComiColor Cartoons short, 1934.",
+          "streamUrl": "https://archive.org/download/ub-iwerks-comicolor-classics-the-complete-collection-1933-36/Comicolor%20Cartoons%20-%20The%20Queen%20of%20Hearts%20-%201934%20%28HD%20Remastered%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-fiddlesticks-1930",
+          "title": "Fiddlesticks",
+          "year": 1930,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1930.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-01-fiddlesticks/Flip%20the%20Frog%20-%201x01%20-%20Fiddlesticks.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-flying-fists-1930",
+          "title": "Flying Fists",
+          "year": 1930,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1930.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-02-flying-fists/Flip%20the%20Frog%20-%201x02%20-%20Flying%20Fists.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-village-barber-1930",
+          "title": "The Village Barber",
+          "year": 1930,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1930.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-03-the-village-barber/Flip%20the%20Frog%20-%201x03%20-%20The%20Village%20Barber.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-little-orphan-willie-1931",
+          "title": "Little Orphan Willie",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-04-little-orphan-willie/Flip%20the%20Frog%20-%201x04%20-%20Little%20Orphan%20Willie.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-cuckoo-murder-case-1931",
+          "title": "The Cuckoo Murder Case",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-05-the-cuckoo-murder-case/Flip%20the%20Frog%20-%201x05%20-%20The%20Cuckoo%20Murder%20Case.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-puddle-pranks-1930",
+          "title": "Puddle Pranks",
+          "year": 1930,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1930.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-1x-06-puddle-pranks/Flip%20the%20Frog%20-%201x06%20-%20Puddle%20Pranks.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-village-smitty-1930",
+          "title": "The Village Smitty",
+          "year": 1930,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1930.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-01-the-village-smitty/Flip%20the%20Frog%20-%202x01%20-%20The%20Village%20Smitty.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-soup-song-1931",
+          "title": "The Soup Song",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-02-the-soup-song/Flip%20the%20Frog%20-%202x02%20-%20The%20Soup%20Song.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-laughing-gas-1931",
+          "title": "Laughing Gas",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-03-laughing-gas/Flip%20the%20Frog%20-%202x03%20-%20Laughing%20Gas.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-ragtime-romeo-1931",
+          "title": "Ragtime Romeo",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-04-ragtime-romeo/Flip%20the%20Frog%20-%202x04%20-%20Ragtime%20Romeo.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-new-car-1931",
+          "title": "The New Car",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-05-the-new-car/Flip%20the%20Frog%20-%202x05%20-%20The%20New%20Car.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-movie-mad-1931",
+          "title": "Movie Mad",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-06-movie-mad/Flip%20the%20Frog%20-%202x06%20-%20Movie%20Mad.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-village-specialist-1931",
+          "title": "The Village Specialist",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-07-the-village-specialist/Flip%20the%20Frog%20-%202x07%20-%20The%20Village%20Specialist.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-jail-birds-1931",
+          "title": "Jail Birds",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-08-jail-birds/Flip%20the%20Frog%20-%202x08%20-%20Jail%20Birds.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-spooks-1931",
+          "title": "Spooks",
+          "year": 1931,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1931.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-2x-10-spooks/Flip%20the%20Frog%20-%202x10%20-%20Spooks.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-milkman-1932",
+          "title": "The Milkman",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-01-the-milkman/Flip%20the%20Frog%20-%203x01%20-%20The%20Milkman.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-fire-fire-1932",
+          "title": "Fire! Fire!",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-02-fire-fire/Flip%20the%20Frog%20-%203x02%20-%20Fire-Fire.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-what-a-life-1932",
+          "title": "What a Life",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-03-what-a-life/Flip%20the%20Frog%20-%203x03%20-%20What%20a%20Life.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-puppy-love-1932",
+          "title": "Puppy Love",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-04-puppy-love/Flip%20the%20Frog%20-%203x04%20-%20Puppy%20Love.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-school-days-1932",
+          "title": "School Days",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-05-school-days/Flip%20the%20Frog%20-%203x05%20-%20School%20Days.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-bully-1932",
+          "title": "The Bully",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-06-the-bully/Flip%20the%20Frog%20-%203x06%20-%20The%20Bully.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-office-boy-iwerks-1932",
+          "title": "The Office Boy (Iwerks)",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-07-the-office-boy/Flip%20the%20Frog%20-%203x07%20-%20The%20Office%20Boy.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-room-runners-1932",
+          "title": "Room Runners",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-08-room-runners/Flip%20the%20Frog%20-%203x08%20-%20Room%20Runners.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-stormy-seas-1932",
+          "title": "Stormy Seas",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-09-stormy-seas/Flip%20the%20Frog%20-%203x09%20-%20Stormy%20Seas.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-goal-rush-1932",
+          "title": "The Goal Rush",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-11-the-goal-rush/Flip%20the%20Frog%20-%203x11%20-%20The%20Goal%20Rush.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-phoney-express-1932",
+          "title": "Phoney Express",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-12-phoney-express/Flip%20the%20Frog%20-%203x12%20-%20Phoney%20Express.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-music-lesson-1932",
+          "title": "The Music Lesson",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-13-the-music-lesson/Flip%20the%20Frog%20-%203x13%20-%20The%20Music%20Lesson.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-nurse-maid-1932",
+          "title": "Nurse Maid",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-14-nurse-maid/Flip%20the%20Frog%20-%203x14%20-%20Nurse%20Maid.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-funny-face-1932",
+          "title": "Funny Face",
+          "year": 1932,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1932.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-3x-15-funny-face/Flip%20the%20Frog%20-%203x15%20-%20Funny%20Face.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-coo-coo-the-magician-1933",
+          "title": "Coo-Coo the Magician",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-01-coo-coo-the-magician/Flip%20the%20Frog%20-%204x01%20-%20Coo%20Coo%20the%20Magician.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-flip-s-lunch-room-1933",
+          "title": "Flip's Lunch Room",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-02-flips-lunch-room/Flip%20the%20Frog%20-%204x02%20-%20Flip%27s%20Lunch%20Room.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-techno-cracked-1933",
+          "title": "Techno-Cracked",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-03-techno-cracked/Flip%20the%20Frog%20-%204x03%20-%20Techno-cracked.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-bulloney-1933",
+          "title": "Bulloney",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-04-bulloney/Flip%20the%20Frog/Flip%20the%20Frog%20-%204x04%20-%20Bulloney.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-chinaman-s-chance-1933",
+          "title": "Chinaman's Chance",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-05-chinamans-chance/Flip%20the%20Frog%20-%204x05%20-%20Chinaman%27s%20Chance.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-pale-face-1933",
+          "title": "Pale Face",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-06-pale-face/Flip%20the%20Frog%20-%204x06%20-%20Pale-Face.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-soda-squirt-1933",
+          "title": "Soda Squirt",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Flip the Frog short, 1933.",
+          "streamUrl": "https://archive.org/download/flip-the-frog-4x-07-soda-squirt/Flip%20the%20Frog%20-%204x07%20-%20Soda%20Squirt.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-davy-jones-locker-1933",
+          "title": "Davy Jones' Locker",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1933.",
+          "streamUrl": "https://archive.org/download/willie-whopper-davy-jones-locker-1933/Willie%20Whopper%20-%20Davy%20Jones%27%20Locker%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-jungle-jitters-1934",
+          "title": "Jungle Jitters",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-jungle-jitters-1934/Willie%20Whopper%20-%20Jungle%20Jitters%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-spite-flight-1933",
+          "title": "Spite Flight",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1933.",
+          "streamUrl": "https://archive.org/download/willie-whopper-spite-flight-1933/Willie%20Whopper%20-%20Spite%20Flight%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-good-scout-1934",
+          "title": "The Good Scout",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-the-good-scout-1934/Willie%20Whopper%20-%20The%20Good%20Scout%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-robin-hood-jr-1934",
+          "title": "Robin Hood Jr.",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-robin-hood-jr.-1934/Willie%20Whopper%20-%20Robin%20Hood%20Jr.%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-air-race-1933",
+          "title": "The Air Race",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1933.",
+          "streamUrl": "https://archive.org/download/willie-whopper-the-air-race-1933/Willie%20Whopper%20-%20The%20Air%20Race%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-reducing-creme-1934",
+          "title": "Reducing Creme",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-reducing-creme-1934/Willie%20Whopper%20-%20Reducing%20Creme%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-stratos-fear-1933",
+          "title": "Stratos Fear",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1933.",
+          "streamUrl": "https://archive.org/download/willie-whopper-stratos-fear-1933/Willie%20Whopper%20-%20Stratos-Fear%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-viva-willie-1934",
+          "title": "Viva Willie",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-viva-willie-1934/Willie%20Whopper%20-%20Viva%20Willie%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-play-ball-1933",
+          "title": "Play Ball",
+          "year": 1933,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1933.",
+          "streamUrl": "https://archive.org/download/willie-whopper-play-ball-1933/Willie%20Whopper%20-%20Play%20Ball%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-insultin-the-sultan-1934",
+          "title": "Insultin' the Sultan",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-insultin-the-sultan-1934/Willie%20Whopper%20-%20Insultin%27%20the%20Sultan%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-hell-s-fire-1934",
+          "title": "Hell's Fire",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-hells-fire-1934/Willie%20Whopper%20-%20Hell%27s%20Fire%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        },
+        {
+          "id": "channel-2-ub-iwerks-toon-vault-the-cave-man-1934",
+          "title": "The Cave Man",
+          "year": 1934,
+          "description": "Ub Iwerks \u2014 Willie Whopper short, 1934.",
+          "streamUrl": "https://archive.org/download/willie-whopper-the-cave-man-1934/Willie%20Whopper%20-%20The%20Cave%20Man%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (High confidence \u2014 independent release, catalog lapsed)"
+        }
+      ]
+    },
+    {
+      "title": "Terrytoons Archive",
+      "items": [
+        {
+          "id": "channel-4-terrytoons-archive-the-red-headed-monkey-1950",
+          "title": "The Red Headed Monkey",
+          "year": 1950,
+          "description": "Terrytoons (Paul Terry) short, 1950.",
+          "streamUrl": "https://archive.org/download/the-red-headed-monkey-1950/The%20Red-Headed%20Monkey%20%281950%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-barnyard-amateurs-1936",
+          "title": "Barnyard Amateurs",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/barnyard-amateurs-1936/Barnyard%20Amateurs%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-mad-king-1932",
+          "title": "The Mad King",
+          "year": 1932,
+          "description": "Terrytoons (Paul Terry) short, 1932.",
+          "streamUrl": "https://archive.org/download/the-mad-king-1932/The%20Mad%20King%20%281932%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-19th-hole-club-1936",
+          "title": "The 19th Hole Club",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/the-19th-hole-club-1936/The%2019th%20Hole%20Club%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-mechanical-cow-1937",
+          "title": "The Mechanical Cow",
+          "year": 1937,
+          "description": "Terrytoons (Paul Terry) short, 1937.",
+          "streamUrl": "https://archive.org/download/the-mechanical-cow-1937/The%20Mechanical%20Cow%20%281937%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-oil-can-mystery-1933",
+          "title": "The Oil Can Mystery",
+          "year": 1933,
+          "description": "Terrytoons (Paul Terry) short, 1933.",
+          "streamUrl": "https://archive.org/download/the-oil-can-mystery-1933/The%20Oil%20Can%20Mystery%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-tin-can-tourist-1937",
+          "title": "The Tin Can Tourist",
+          "year": 1937,
+          "description": "Terrytoons (Paul Terry) short, 1937.",
+          "streamUrl": "https://archive.org/download/the-tin-can-tourist-1937_202602/videoplayback%20%284%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-jumping-beans-1930",
+          "title": "Jumping Beans",
+          "year": 1930,
+          "description": "Terrytoons (Paul Terry) short, 1930.",
+          "streamUrl": "https://archive.org/download/jumping-beans-1930/Jumping%20Beans%20%281930%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-jesse-and-james-1931",
+          "title": "Jesse and James",
+          "year": 1931,
+          "description": "Terrytoons (Paul Terry) short, 1931.",
+          "streamUrl": "https://archive.org/download/jesse-and-james-1931/Jesse%20and%20James%20%281931%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-injun-trouble-1951",
+          "title": "Injun Trouble",
+          "year": 1951,
+          "description": "Terrytoons (Paul Terry) short, 1951.",
+          "streamUrl": "https://archive.org/download/injun-trouble-1951/Injun%20Trouble%20%281951%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-it-must-be-love-1940",
+          "title": "It Must Be Love",
+          "year": 1940,
+          "description": "Terrytoons (Paul Terry) short, 1940.",
+          "streamUrl": "https://archive.org/download/it-must-be-love-1940/It%20Must%20Be%20Love%20%281940%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-robin-hood-1933",
+          "title": "Robin Hood",
+          "year": 1933,
+          "description": "Terrytoons (Paul Terry) short, 1933.",
+          "streamUrl": "https://archive.org/download/robin-hood-1933/Robin%20Hood%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-a-wolf-in-cheap-clothing-1936",
+          "title": "A Wolf in Cheap Clothing",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/a-wolf-in-cheap-clothing-1936/A%20Wolf%20in%20Cheap%20Clothing%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-a-modern-red-riding-hood-1935",
+          "title": "A Modern Red Riding Hood",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/a-modern-red-riding-hood-1935/A%20Modern%20Red%20Riding%20Hood%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-a-tough-egg-1936",
+          "title": "A Tough Egg",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/a-tough-egg-1936/A%20Tough%20Egg%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-ye-olde-toy-shop-1935",
+          "title": "Ye Olde Toy Shop",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/ye-olde-toy-shop-1935-terry-toons/Ye%20Olde%20Toy%20Shop%201935%20-TerryToons.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-grand-uproar-1933",
+          "title": "Grand Uproar",
+          "year": 1933,
+          "description": "Terrytoons (Paul Terry) short, 1933.",
+          "streamUrl": "https://archive.org/download/grand-uproar-1933/Grand%20Uproar%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-carmen-s-veranda-1944",
+          "title": "Carmen's Veranda",
+          "year": 1944,
+          "description": "Terrytoons (Paul Terry) short, 1944.",
+          "streamUrl": "https://archive.org/download/carmens-veranda-1944/Carmen%27s%20Veranda%20%281944%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-circus-days-1935",
+          "title": "Circus Days",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/circus-days-1935/Circus%20Days%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-crying-wolf-1947",
+          "title": "Crying Wolf",
+          "year": 1947,
+          "description": "Terrytoons (Paul Terry) short, 1947.",
+          "streamUrl": "https://archive.org/download/crying-wolf-1947/Crying%20Wolf%20%281947%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-twelve-o-clock-and-all-ain-t-well-1941",
+          "title": "Twelve O'Clock and All Ain't Well",
+          "year": 1941,
+          "description": "Terrytoons (Paul Terry) short, 1941.",
+          "streamUrl": "https://archive.org/download/twelve-o-clock-and-all-aint-well-1941/Twelve%20O%27Clock%20and%20All%20Ain%27t%20Well%20%281941%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-felix-the-fox-1948",
+          "title": "Felix the Fox",
+          "year": 1948,
+          "description": "Terrytoons (Paul Terry) short, 1948.",
+          "streamUrl": "https://archive.org/download/felix-the-fox-1948/Felix%20the%20Fox%20%281948%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-noah-s-outing-terrytoons-listing-1932",
+          "title": "Noah's Outing (Terrytoons listing)",
+          "year": 1932,
+          "description": "Possible cross-listing \u2014 a same-titled short also appears in the Van Beuren batch; check both before using",
+          "streamUrl": "https://archive.org/download/noahs-outing-1932/Noah%27s%20Outing%20%281932%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-lion-s-friend-1934",
+          "title": "The Lion's Friend",
+          "year": 1934,
+          "description": "Terrytoons (Paul Terry) short, 1934.",
+          "streamUrl": "https://archive.org/download/the-lions-friend-1934/The%20Lion%27s%20Friend%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-cinderella-1933",
+          "title": "Cinderella",
+          "year": 1933,
+          "description": "Terrytoons (Paul Terry) short, 1933.",
+          "streamUrl": "https://archive.org/download/cinderella-1933/Cinderella%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-big-game-haunt-1937",
+          "title": "The Big Game Haunt",
+          "year": 1937,
+          "description": "Terrytoons (Paul Terry) short, 1937.",
+          "streamUrl": "https://archive.org/download/the-big-game-haunt-1937/The%20Big%20Game%20Haunt%20%281937%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-it-s-all-in-the-stars-1946",
+          "title": "It's All in the Stars",
+          "year": 1946,
+          "description": "Terrytoons (Paul Terry) short, 1946.",
+          "streamUrl": "https://archive.org/download/its-all-in-the-stars-1946/It%27s%20All%20in%20the%20Stars%20%281946%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-little-problems-1951",
+          "title": "Little Problems",
+          "year": 1951,
+          "description": "Terrytoons (Paul Terry) short, 1951.",
+          "streamUrl": "https://archive.org/download/little-problems-1951/Little%20Problems%20%281951%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-bad-bill-bunion-1945",
+          "title": "Bad Bill Bunion",
+          "year": 1945,
+          "description": "Terrytoons (Paul Terry) short, 1945.",
+          "streamUrl": "https://archive.org/download/bad-bill-bunion-1945/Bad%20Bill%20Bunion%20%281945%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-club-sandwich-1931",
+          "title": "Club Sandwich",
+          "year": 1931,
+          "description": "Terrytoons (Paul Terry) short, 1931.",
+          "streamUrl": "https://archive.org/download/club-sandwich-1931/Club%20Sandwich%20%281931%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-runt-1935",
+          "title": "The Runt",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/the-runt-1935/The%20Runt%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-stork-s-mistake-1942",
+          "title": "The Stork's Mistake",
+          "year": 1942,
+          "description": "Terrytoons (Paul Terry) short, 1942.",
+          "streamUrl": "https://archive.org/download/the-storks-mistake-1942/The%20Stork%27s%20Mistake%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-hopeful-donkey-1943",
+          "title": "The Hopeful Donkey",
+          "year": 1943,
+          "description": "Terrytoons (Paul Terry) short, 1943.",
+          "streamUrl": "https://archive.org/download/the-hopeful-donkey-1943/The%20Hopeful%20Donkey%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-home-town-olympics-1936",
+          "title": "Home Town Olympics",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/home-town-olympics-1936/Home%20Town%20Olympics%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-moth-and-the-spider-1935",
+          "title": "The Moth and the Spider",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/the-moth-and-the-spider-1935/The%20Moth%20and%20the%20Spider%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-champion-of-justice-1944",
+          "title": "The Champion of Justice",
+          "year": 1944,
+          "description": "Terrytoons (Paul Terry) short, 1944.",
+          "streamUrl": "https://archive.org/download/the-champion-of-justice-1944/The%20Champion%20of%20Justice%20%281944%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-mayflower-1935",
+          "title": "The Mayflower",
+          "year": 1935,
+          "description": "Terrytoons (Paul Terry) short, 1935.",
+          "streamUrl": "https://archive.org/download/the-mayflower-1935/The%20Mayflower%20%281935%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-health-farm-1936",
+          "title": "The Health Farm",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/the-health-farm-1936/The%20Health%20Farm%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-sailor-s-home-1936",
+          "title": "The Sailor's Home",
+          "year": 1936,
+          "description": "Terrytoons (Paul Terry) short, 1936.",
+          "streamUrl": "https://archive.org/download/the-sailors-home-1936/The%20Sailor%27s%20Home%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-wolf-s-side-of-the-story-1938",
+          "title": "The Wolf's Side of the Story",
+          "year": 1938,
+          "description": "Terrytoons (Paul Terry) short, 1938.",
+          "streamUrl": "https://archive.org/download/the-wolfs-side-of-the-story-1938/The%20Wolf%27s%20Side%20of%20the%20Story%20%281938%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-who-s-who-in-the-jungle-1945",
+          "title": "Who's Who in the Jungle",
+          "year": 1945,
+          "description": "Terrytoons (Paul Terry) short, 1945.",
+          "streamUrl": "https://archive.org/download/whos-who-in-the-jungle-1945/Who%27s%20Who%20in%20the%20Jungle%20%281945%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-indian-pudding-1930",
+          "title": "Indian Pudding",
+          "year": 1930,
+          "description": "Terrytoons (Paul Terry) short, 1930.",
+          "streamUrl": "https://archive.org/download/IndianPudding1930/Indian%20Pudding%20%281930%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-woodland-1932",
+          "title": "Woodland",
+          "year": 1932,
+          "description": "Terrytoons (Paul Terry) short, 1932.",
+          "streamUrl": "https://archive.org/download/woodland-1932/Woodland%20%281932%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-yokel-duck-makes-good-1943",
+          "title": "Yokel Duck Makes Good",
+          "year": 1943,
+          "description": "Terrytoons (Paul Terry) short, 1943.",
+          "streamUrl": "https://archive.org/download/yokel-ducks-makes-good-1943/Yokel%20Ducks%20Makes%20Good%20%281943%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-see-the-world-1934",
+          "title": "See the World",
+          "year": 1934,
+          "description": "Terrytoons (Paul Terry) short, 1934.",
+          "streamUrl": "https://archive.org/download/see-the-world-1934/See%20the%20World%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-romeo-and-juliet-1933",
+          "title": "Romeo and Juliet",
+          "year": 1933,
+          "description": "Terrytoons (Paul Terry) short, 1933.",
+          "streamUrl": "https://archive.org/download/romeo-and-juliet-1933/Romeo%20and%20Juliet%20%281933%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-landing-of-the-pilgrims-1940",
+          "title": "Landing of the Pilgrims",
+          "year": 1940,
+          "description": "Terrytoons (Paul Terry) short, 1940.",
+          "streamUrl": "https://archive.org/download/landing-of-the-pilgrims-1940/Landing%20of%20the%20Pilgrims%20%281940%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        },
+        {
+          "id": "channel-4-terrytoons-archive-the-dog-show-1950",
+          "title": "The Dog Show",
+          "year": 1950,
+          "description": "Terrytoons (Paul Terry) short, 1950.",
+          "streamUrl": "https://archive.org/download/the-dog-show-1950/The%20Dog%20Show%20%281950%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Medium confidence \u2014 spot-check recommended before wide promotion)"
+        }
+      ]
+    },
+    {
+      "title": "Vintage Character Vault",
+      "items": [
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-s-bamboo-isle-1932",
+          "title": "Betty Boop's Bamboo Isle",
+          "year": 1932,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/bb_bamboo_isle/bb_bamboo_isle_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-i-ll-be-glad-when-you-re-dead-you-rascal-you-1932",
+          "title": "Betty Boop: I'll Be Glad When You're Dead You Rascal You",
+          "year": 1932,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-ill-be-glad-when-youre-dead-you-rascal-you-1932/SnapSave.io-Betty%20Boop%20-%20I%27ll%20Be%20Glad%20When%20You%27re%20Dead%20You%20Rascal%20You%20-%201932%20HD-%281080p%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-s-halloween-party-1933",
+          "title": "Betty Boop's Halloween Party",
+          "year": 1933,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/BettyBoopHalloweenParty1933/BannedCartoons-BettyBoop-1933-HalloweenParty_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-snow-white-1933",
+          "title": "Betty Boop: Snow White",
+          "year": 1933,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-in-snow-white-st-james-infirmary-blues-1933-4-k-60fps/Betty%20Boop%20in%20Snow%20White%20St%20James%20Infirmary%20Blues%20%281933%204K%2060fps%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-stop-that-noise-1935",
+          "title": "Betty Boop: Stop That Noise",
+          "year": 1935,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/bb_stop_that_noise/bb_stop_that_noise_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-with-henry-the-funniest-living-american-1935",
+          "title": "Betty Boop with Henry the Funniest Living American",
+          "year": 1935,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/Betty_Boop_with_Henry_1935/Betty_Boop_with_Henry_1935_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-judge-for-a-day-1935",
+          "title": "Betty Boop: Judge for a Day",
+          "year": 1935,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-judge-for-a-day-1935-metv-toons-airing/lv_0_20251115222928.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-more-pep-1936",
+          "title": "Betty Boop: More Pep",
+          "year": 1936,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/Betty_Boop_More_Pep_1936/Betty_Boop_More_Pep_1936_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-training-pigeons-1936",
+          "title": "Betty Boop: Training Pigeons",
+          "year": 1936,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/Betty_Boop_Training_Pigeons_1936/Betty_Boop_Training_Pigeons_1936_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-be-human-1936",
+          "title": "Betty Boop: Be Human",
+          "year": 1936,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/bb_be_human/bb_be_human_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-not-now-1936",
+          "title": "Betty Boop: Not Now",
+          "year": 1936,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/bb_not_now/bb_not_now_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-you-re-not-built-that-way-1936",
+          "title": "Betty Boop: You're Not Built That Way",
+          "year": 1936,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/BettyBoopYoureNotBuiltThatWay1936H264AAC360p/Betty%20Boop%20-%20You%27re%20Not%20Built%20That%20Way%20%281936%29_H264_AAC_360p.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-whoops-i-m-a-cowboy-1937",
+          "title": "Betty Boop: Whoops, I'm a Cowboy",
+          "year": 1937,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/19370212WhoopsImACowboyBettyBoop/1937-02-12%20Whoops%21%20I%27m%20A%20Cowboy%20%28Betty%20Boop%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-the-hot-air-salesman-1937",
+          "title": "Betty Boop: The Hot Air Salesman",
+          "year": 1937,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-the-hot-air-salesman-soogbuggjec/Betty%20Boop%20-%20The%20Hot%20Air%20Salesman%20%281937%29%20%5BSOoGBugGJec%5D.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-the-impractical-joker-1937",
+          "title": "Betty Boop: The Impractical Joker",
+          "year": 1937,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/bb_the_impractical_joker/bb_the_impractical_joker_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-the-foxy-hunter-1937",
+          "title": "Betty Boop: The Foxy Hunter",
+          "year": 1937,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-the-foxy-hunter-m-m-spanking/Betty%20Boop%20-%20The%20foxy%20hunter%20m_m%20spanking.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-ding-dong-doggie-1937",
+          "title": "Betty Boop: Ding Dong Doggie",
+          "year": 1937,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/83729-betty-boop-ding-dong-doggie-1937-online-video-cutter.com/83729-Betty%20Boop%20Ding%20Dong%20Doggie%20%281937%29%20%28online-video-cutter.com%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-honest-love-and-true-1938",
+          "title": "Betty Boop: Honest Love and True",
+          "year": 1938,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/honest-love-and-true-1938-french-print/Honest%20Love%20and%20True%20%281938%29%20french%20print.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-betty-boop-sally-swing-1938",
+          "title": "Betty Boop: Sally Swing",
+          "year": 1938,
+          "description": "Year approximate/as listed on archive.org",
+          "streamUrl": "https://archive.org/download/betty-boop-in-sally-swing/Betty%20Boop%20in%20Sally%20Swing.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-krazy-kat-farm-relief-n-a",
+          "title": "Krazy Kat: Farm Relief",
+          "year": "n/a",
+          "description": "Columbia/Winkler \u2014 Krazy Kat short, n/a.",
+          "streamUrl": "https://archive.org/download/krazy-kat-farm-relief/Krazy%20Kat%20-%20Farm%20Relief.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-krazy-kat-the-bugologist-silent-n-a",
+          "title": "Krazy Kat: The Bugologist (silent)",
+          "year": "n/a",
+          "description": "Columbia/Winkler \u2014 Krazy Kat short, n/a.",
+          "streamUrl": "https://archive.org/download/silent-krazy-kat--bugologist/Krazy%20Kat%20-%20Bugologist.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-krazy-kat-bars-and-stripes-1931",
+          "title": "Krazy Kat: Bars and Stripes",
+          "year": 1931,
+          "description": "Columbia/Winkler \u2014 Krazy Kat short, 1931.",
+          "streamUrl": "https://archive.org/download/BarsAndStripes1931KrazyKatSoundCartoo/BarsAndStripes1931KrazyKatSoundCartoon.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-krazy-kat-folly-to-the-leader-n-a",
+          "title": "Krazy Kat: Folly to the Leader",
+          "year": "n/a",
+          "description": "Columbia/Winkler \u2014 Krazy Kat short, n/a.",
+          "streamUrl": "https://archive.org/download/krazy-kat-folly-the-leader-and-more-episode-3/Krazy%20Kat%20-%20Folly%20the%20Leader%20AND%20MORE%20-%20Episode%20%23%203.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-trolley-troubles-1927",
+          "title": "Oswald the Lucky Rabbit: Trolley Troubles",
+          "year": 1927,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1927.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-in-trolley-troubles/Oswald%20the%20Lucky%20Rabbit%20in%20Trolley%20Troubles.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-all-wet-1927",
+          "title": "Oswald the Lucky Rabbit: All Wet",
+          "year": 1927,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1927.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-all-wet/Oswald%20the%20Lucky%20Rabbit%20-%20All%20Wet%20%281%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-oh-teacher-1927",
+          "title": "Oswald the Lucky Rabbit: Oh, Teacher",
+          "year": 1927,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1927.",
+          "streamUrl": "https://archive.org/download/oh-teacher-1927.-oswald-the-lucky-rabbit-reissued-version-1932./Oh%20teacher%20%281927%29.%20Oswald%20The%20Lucky%20Rabbit%20%28Reissued%20version%20-%201932%29..mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-neck-n-neck-1928",
+          "title": "Oswald the Lucky Rabbit: Neck 'n' Neck",
+          "year": 1928,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1928.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-neck-n-neck-1928/Oswald%20the%20Lucky%20Rabbit%20Neck%20%27n%27%20Neck%20%281928%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-suicide-sheik-1929",
+          "title": "Oswald the Lucky Rabbit: Suicide Sheik",
+          "year": 1929,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1929.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-in-suicide-sheik-1929/Oswald_The_Lucky_Rabbit_in_SUICIDE_SHEIK_%281929%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-race-riot-1930",
+          "title": "Oswald the Lucky Rabbit: Race Riot",
+          "year": 1930,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1930.",
+          "streamUrl": "https://archive.org/download/52366-oswald-the-lucky-rabbit-race-riot-clip/52366-%21%21%20OSWALD%20THE%20LUCKY%20RABBIT%20RACE%20RIOT%20CLIP.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-teacher-s-pests-1930",
+          "title": "Oswald the Lucky Rabbit: Teacher's Pests",
+          "year": 1930,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1930.",
+          "streamUrl": "https://archive.org/download/52947-oswald-the-lucky-rabbit-teachers-pests/52947-%21%21%20OSWALD%20THE%20LUCKY%20RABBIT-TEACHERS%20PESTS.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-africa-1930",
+          "title": "Oswald the Lucky Rabbit: Africa",
+          "year": 1930,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1930.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-in-africa-1930/Oswald_the_Lucky_Rabbit_in_%27Africa%27_%281930%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-shipwreck-1931",
+          "title": "Oswald the Lucky Rabbit: Shipwreck",
+          "year": 1931,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1931.",
+          "streamUrl": "https://archive.org/download/shipwreck-oswald-the-lucky-rabbit-titles-1931/shipwreck%20-%20Oswald%20the%20lucky%20rabbit%20titles%20%281931%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-mechanical-man-1932",
+          "title": "Oswald the Lucky Rabbit: Mechanical Man",
+          "year": 1932,
+          "description": "Studio/year attribution unclear in source listing \u2014 double-check before use",
+          "streamUrl": "https://archive.org/download/1932OswaldTheLuckyRabbitMechanicalManWaltDisney/1932%20Oswald%20the%20Lucky%20Rabbit%20%20%20Mechanical%20Man%20%28Walt%20Disney%29.MP4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-the-toy-shoppe-redrawn-1934",
+          "title": "Oswald the Lucky Rabbit: The Toy Shoppe (redrawn)",
+          "year": 1934,
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, 1934.",
+          "streamUrl": "https://archive.org/download/oswald-the-lucky-rabbit-the-toy-shoppe-1934-redrawn/Oswald%20the%20Lucky%20Rabbit%20-%20The%20Toy%20Shoppe%20%281934%2C%20Redrawn%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        },
+        {
+          "id": "channel-5-vintage-character-vault-oswald-the-lucky-rabbit-the-ginger-bread-show-n-a",
+          "title": "Oswald the Lucky Rabbit: The Ginger Bread Show",
+          "year": "n/a",
+          "description": "Disney/Winkler \u2014 Oswald the Lucky Rabbit short, n/a.",
+          "streamUrl": "https://archive.org/download/18994-oswald-the-lucky-rabbit-short-136-the-ginger-bread-show/18994-Oswald%20The%20Lucky%20Rabbit%20Short%20136%20The%20Ginger%20Bread%20show.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (Low-Medium confidence \u2014 case-by-case, verify before heavy promotion)"
+        }
+      ]
+    },
+    {
+      "title": "Popeye the Sailor",
+      "items": [
+        {
+          "id": "popeye-the-sailor-let-s-sing-with-popeye-1934",
+          "title": "Let's Sing with Popeye",
+          "year": 1934,
+          "description": "A sing-along short inviting audiences to belt out the Popeye theme.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Let%27s%20Sing%20With%20Popeye%20%281934%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-little-swee-pea-1936",
+          "title": "Little Swee'Pea",
+          "year": 1936,
+          "description": "Popeye babysits the troublesome infant Swee'Pea.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Little%20Swee%27Pea%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-i-m-in-the-army-now-1936",
+          "title": "I'm in the Army Now",
+          "year": 1936,
+          "description": "Popeye and Bluto clash as raw army recruits.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/I%27m%20In%20The%20Army%20Now%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-the-paneless-window-washer-1937",
+          "title": "The Paneless Window Washer",
+          "year": 1937,
+          "description": "Popeye takes on a high-rise window-washing job with predictably chaotic results.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/The%20Paneless%20Window%20Washer%20%281937%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-i-never-changes-my-altitude-1937",
+          "title": "I Never Changes My Altitude",
+          "year": 1937,
+          "description": "Popeye and Bluto compete as rival airmail pilots.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/I%20Never%20Changes%20My%20Altitude%20%281937%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-a-date-to-skate-1938",
+          "title": "A Date to Skate",
+          "year": 1938,
+          "description": "A roller-rink rivalry between Popeye and Bluto over Olive Oyl.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/A%20Date%20To%20Skate%20%281938%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-customers-wanted-1939",
+          "title": "Customers Wanted",
+          "year": 1939,
+          "description": "Popeye and Bluto battle for customers as rival street vendors.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Customers%20Wanted%20%281939%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-me-musical-nephews-1942",
+          "title": "Me Musical Nephews",
+          "year": 1942,
+          "description": "Popeye's nephews raise a musical ruckus at bedtime.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Me%20Musical%20Nephews%20%281942%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-popeye-the-sailor-meets-sindbad-the-sailor-1936",
+          "title": "Popeye the Sailor Meets Sindbad the Sailor",
+          "year": 1936,
+          "description": "A lavish two-reel Technicolor special pitting Popeye against the legendary Sindbad.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Popeye%20The%20Sailor%20Meets%20Sindbad%20The%20Sailor%20%281936%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-popeye-the-sailor-meets-ali-baba-s-forty-thieves-1937",
+          "title": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+          "year": 1937,
+          "description": "Popeye takes on Ali Baba's band of thieves in this Technicolor two-reeler.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Popeye%20The%20Sailor%20Meets%20Ali%20Baba%27s%20Forty%20Thieves%20%281937%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-aladdin-and-his-wonderful-lamp-1939",
+          "title": "Aladdin and His Wonderful Lamp",
+          "year": 1939,
+          "description": "Popeye's third Technicolor special, retelling the tale of Aladdin's magic lamp.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Aladdin%20And%20His%20Wonderful%20Lamp%20%281939%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-shuteye-popeye-1952",
+          "title": "Shuteye Popeye",
+          "year": 1952,
+          "description": "Popeye battles insomnia and Bluto's noisy antics.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Shuteye%20Popeye%20%281952%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-ancient-fistory-1953",
+          "title": "Ancient Fistory",
+          "year": 1953,
+          "description": "An elderly Popeye and Bluto recall their rivalry in flashback.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Ancient%20Fistory%20%281953%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-big-bad-sindbad-1952",
+          "title": "Big Bad Sindbad",
+          "year": 1952,
+          "description": "Popeye recasts the Sindbad legend in this 1950s remake.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Big%20Bad%20Sindbad%20%281952%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-bride-and-gloom-1954",
+          "title": "Bride and Gloom",
+          "year": 1954,
+          "description": "Popeye and Bluto compete for Olive Oyl's hand in marriage.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Bride%20And%20Gloom%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-cookin-with-gags-1955",
+          "title": "Cookin' with Gags",
+          "year": 1955,
+          "description": "A kitchen-set showdown between Popeye and Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Cookin%27%20With%20Gags%20%281955%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-floor-flusher-1954",
+          "title": "Floor Flusher",
+          "year": 1954,
+          "description": "Popeye and Bluto scrub it out as rival janitors.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Floor%20Flusher%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-fright-to-the-finish-1954",
+          "title": "Fright to the Finish",
+          "year": 1954,
+          "description": "A haunted-house short with Popeye and Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Fright%20To%20The%20Finish%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-gopher-spinach-1954",
+          "title": "Gopher Spinach",
+          "year": 1954,
+          "description": "Popeye and Bluto go head to head over a spinach patch.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Gopher%20Spinach%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-greek-mirthology-1954",
+          "title": "Greek Mirthology",
+          "year": 1954,
+          "description": "Popeye reimagines Greek mythology, spinach-style.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Greek%20Mirthology%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-a-haul-in-one-1956",
+          "title": "A Haul in One",
+          "year": 1956,
+          "description": "A golf-course rivalry between Popeye and Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/A%20Haul%20In%20One%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-i-don-t-scare-1956",
+          "title": "I Don't Scare",
+          "year": 1956,
+          "description": "Popeye faces off with Bluto in a haunted setting.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/I%20Don%27t%20Scare%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-insect-to-injury-1956",
+          "title": "Insect to Injury",
+          "year": 1956,
+          "description": "Popeye and Bluto tangle with an army of insects.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Insect%20To%20Injury%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-nearlyweds-1957",
+          "title": "Nearlyweds",
+          "year": 1957,
+          "description": "A wedding-day mix-up sends Popeye and Bluto into chaos.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Nearlyweds%20%281957%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-out-to-punch-1956",
+          "title": "Out to Punch",
+          "year": 1956,
+          "description": "Popeye steps into the boxing ring against Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Out%20To%20Punch%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-parlez-vous-woo-1956",
+          "title": "Parlez Vous Woo",
+          "year": 1956,
+          "description": "Popeye and Bluto's rivalry goes to Paris.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Parlez%20Vous%20Woo%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-patriotic-popeye-1957",
+          "title": "Patriotic Popeye",
+          "year": 1957,
+          "description": "A flag-waving short pitting Popeye against Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Patriotic%20Popeye%20%281957%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-popeye-for-president-1956",
+          "title": "Popeye for President",
+          "year": 1956,
+          "description": "Popeye runs for office in this election-themed short.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Popeye%20For%20President%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-popeye-s-20th-anniversary-1954",
+          "title": "Popeye's 20th Anniversary",
+          "year": 1954,
+          "description": "A retrospective celebrating two decades of Popeye cartoons.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Popeye%27s%2020th%20Anniversary%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-private-eye-popeye-1954",
+          "title": "Private Eye Popeye",
+          "year": 1954,
+          "description": "Popeye turns detective to crack a case.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Private%20Eye%20Popeye%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-spooky-swabs-1957",
+          "title": "Spooky Swabs",
+          "year": 1957,
+          "description": "Popeye and Bluto encounter a haunted ship.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Spooky%20Swabs%20%281957%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-spree-lunch-1957",
+          "title": "Spree Lunch",
+          "year": 1957,
+          "description": "A lunch-counter rivalry between Popeye and Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Spree%20Lunch%20%281957%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-taxi-turvy-1954",
+          "title": "Taxi-Turvy",
+          "year": 1954,
+          "description": "Popeye and Bluto compete as rival cab drivers.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Taxi-Turvy%20%281954%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-the-crystal-brawl-1957",
+          "title": "The Crystal Brawl",
+          "year": 1957,
+          "description": "A fortune-teller's crystal ball sparks chaos between Popeye and Bluto.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/The%20Crystal%20Brawl%20%281957%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        },
+        {
+          "id": "popeye-the-sailor-assault-and-flattery-1956",
+          "title": "Assault and Flattery",
+          "year": 1956,
+          "description": "Popeye and Bluto vie for Olive's favor once again.",
+          "streamUrl": "https://archive.org/download/popeyethesailor-publicdomain/Assault%20And%20Flattery%20%281956%29.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain"
+        }
+      ]
+    },
+    {
+      "title": "Newly Public Domain (2026)",
+      "items": [
+        {
+          "id": "dizzy-dishes-1930",
+          "title": "Dizzy Dishes",
+          "year": 1930,
+          "description": "The first cartoon to feature the character who became Betty Boop \u2014 freshly public domain as of January 1, 2026.",
+          "streamUrl": "https://archive.org/download/BettyBoopDizzyDishes1930/DizzyDishes_mpeg4_512kb.mp4",
+          "streamFormat": "mp4",
+          "license": "Public Domain (entered PD Jan 1, 2026)"
+        }
+      ]
+    }
+  ]
+}
